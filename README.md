@@ -8,6 +8,6 @@ Made from the creator of the Sujix/Dragon Linux distribution which had well over
 Daft Punk themed!
 Easy to use.
 Lightweight.
-Includes loads of tools, and utilities.
+Includes loads of tools, and utilities.</br>
 [![Website](https://tinyurl.com/bdffr5tr)](https://home.venith.net)<br>
 [![Discord](https://tinyurl.com/3b9s4sz7)](https://discord.gg/VhfM3UncBB)<br>
