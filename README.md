@@ -6,3 +6,9 @@ Made from the creator of the Sujix/Dragon Linux distribution which had well over
 https://home.venith.net
 **[Discord]**
 https://discord.gg/VhfM3UncBB
+
+**[Features]**
+Daft Punk themed!
+Easy to use.
+Lightweight.
+Includes loads of tools, and utilities.
