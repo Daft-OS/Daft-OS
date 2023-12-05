@@ -1,4 +1,4 @@
-## 💻 Daft OS</br>
+## 🤖🎸 Daft OS</br>
 ![image](https://raw.githubusercontent.com/Daft-OS/Daft-OS/main/daftos.gif)
 Daft OS is a **[Feren OS]** Ubuntu based Daft Punk themed Linux distribution. **[Daft Punk music not included!]**
 
