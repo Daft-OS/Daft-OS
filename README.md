@@ -13,5 +13,5 @@ Includes loads of tools, and utilities.</br>
 **[Download today!]**
 https://sourceforge.net/projects/daftpunklinux/</br>
 
-[![Website](https://tinyurl.com/bdffr5tr)](https://home.venith.net)<br>
-[![Discord](https://tinyurl.com/3b9s4sz7)](https://gg.gg/venith_)<br>
+[![Website](https://tinyurl.com/bdffr5tr)](https://home.veltron.net)<br>
+[![Discord](https://tinyurl.com/3b9s4sz7)](https://discord.go.veltron.net)<br>
